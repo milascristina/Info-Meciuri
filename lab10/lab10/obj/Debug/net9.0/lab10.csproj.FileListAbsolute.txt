@@ -1,0 +1,14 @@
+C:\Users\Cristina\RiderProjects\lab10\lab10\bin\Debug\net9.0\lab10.exe
+C:\Users\Cristina\RiderProjects\lab10\lab10\bin\Debug\net9.0\lab10.deps.json
+C:\Users\Cristina\RiderProjects\lab10\lab10\bin\Debug\net9.0\lab10.runtimeconfig.json
+C:\Users\Cristina\RiderProjects\lab10\lab10\bin\Debug\net9.0\lab10.dll
+C:\Users\Cristina\RiderProjects\lab10\lab10\bin\Debug\net9.0\lab10.pdb
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.AssemblyInfoInputs.cache
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.AssemblyInfo.cs
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.dll
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\refint\lab10.dll
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.pdb
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\lab10.genruntimeconfig.cache
+C:\Users\Cristina\RiderProjects\lab10\lab10\obj\Debug\net9.0\ref\lab10.dll

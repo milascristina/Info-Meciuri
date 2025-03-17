@@ -1,0 +1,5 @@
+﻿1,LeBron James,LiceulTeoreticLucianBlaga,LosAngelesLakers
+2,James Harden,ScoalaGimnazialaIonCreanga,HoustonRockets
+3,Michael Jordan,ColegiulNationalPedagogicGheorgheLazar,ChicagoBulls
+4,Stephen Curry,LiceulTeoreticNicolaeBalcescu,GoldenStateWarriors
+5,Kyrie Irving,LiceulTeoreticIonAgarbiceanu,BostonCeltics

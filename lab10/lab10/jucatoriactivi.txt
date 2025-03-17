@@ -1,0 +1,5 @@
+﻿1,1,1,30,Titular
+2,2,1,25,Titular
+3,3,2,40,Rezervă
+4,4,2,35,Titular
+5,5,3,28,Titular

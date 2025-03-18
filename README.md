@@ -21,9 +21,7 @@ This is a C# application that manages basketball matches, teams, and player stat
   - **UI Layer:** Displays data.
 
 ## Installation & Setup
-1.Download and install JetBrains Rider.
-2.Clone the repository or open the project file directly in Rider.
+1. Download and install JetBrains Rider.
+2. Clone the repository or open the project file directly in Rider.
 3.Ensure that the necessary files (e.g., data files) are present in the project directory.
 4.Run the application via the main class.
-
-
